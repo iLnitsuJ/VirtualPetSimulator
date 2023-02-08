@@ -1,4 +1,4 @@
-I used Intellij back when working on this project. To be able to run it in vscode, you would need to install this extension YouMayCallMeV.vscode-java-saber.
+I used Intellij back when working on this project. To be able to run it in vscode, you could to install this extension YouMayCallMeV.vscode-java-saber and it will be able to run right away.
 
 # *Virtual Pet Simulator*
 
