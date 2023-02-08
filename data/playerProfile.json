@@ -17,6 +17,15 @@
             "poopMeter": "0",
             "animalName": "jake",
             "type": "Dog"
+        },
+        {
+            "healthLevel": "100",
+            "petState": "0",
+            "starveMeter": "100",
+            "closenessLevel": "0",
+            "poopMeter": "0",
+            "animalName": "pet3",
+            "type": "Dog"
         }
     ],
     "Inventory": [

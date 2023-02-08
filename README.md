@@ -1,3 +1,5 @@
+I used Intellij back when working on this project. To be able to run it in vscode, you would need to install this extension YouMayCallMeV.vscode-java-saber.
+
 # *Virtual Pet Simulator*
 
 ## Enjoy the experience of having a pet virtually.
@@ -41,4 +43,3 @@ I think I could've refactored out the pet class, and just have player with acces
 Right now pet class acts as a way to choose to produce either Cat/Dog objects. However, I could modify animal class
 so that a type parameter is passed in when constructing an animal object which leads to choosing the specified
 type(cat or dog) to create such object.
-
