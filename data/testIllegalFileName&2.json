@@ -1,0 +1,18 @@
+{
+    "Pets": [],
+    "Inventory": [
+        {
+            "name": "apple",
+            "amountOfHealthRecovered": "10"
+        },
+        {
+            "name": "banana",
+            "amountOfHealthRecovered": "20"
+        },
+        {
+            "name": "orange",
+            "amountOfHealthRecovered": "30"
+        }
+    ],
+    "Player Name": "testPlayer"
+}

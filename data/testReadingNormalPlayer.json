@@ -1,0 +1,38 @@
+{
+  "score": "0",
+  "Pets": [
+    {
+      "healthLevel": "100",
+      "petState": "0",
+      "starveMeter": "100",
+      "closenessLevel": "100",
+      "poopMeter": "0",
+      "animalName": "pet1",
+      "type": "Cat"
+    },
+    {
+      "healthLevel": "100",
+      "petState": "0",
+      "starveMeter": "100",
+      "closenessLevel": "100",
+      "poopMeter": "0",
+      "animalName": "pet2",
+      "type": "Dog"
+    }
+  ],
+  "Inventory": [
+    {
+      "name": "apple",
+      "starvePointRecovered": "10"
+    },
+    {
+      "name": "banana",
+      "starvePointRecovered": "20"
+    },
+    {
+      "name": "orange",
+      "starvePointRecovered": "30"
+    }
+  ],
+  "Player Name": "normal"
+}

@@ -1,0 +1,19 @@
+{
+  "score": "0",
+  "Pets": [],
+  "Inventory": [
+    {
+      "name": "apple",
+      "starvePointRecovered": "10"
+    },
+    {
+      "name": "banana",
+      "starvePointRecovered": "20"
+    },
+    {
+      "name": "orange",
+      "starvePointRecovered": "30"
+    }
+  ],
+  "Player Name": "empty"
+}
