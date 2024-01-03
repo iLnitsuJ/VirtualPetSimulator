@@ -3,29 +3,20 @@
         {
             "healthLevel": "100",
             "petState": "0",
-            "starveMeter": "90",
-            "closenessLevel": "15",
-            "poopMeter": "5",
-            "animalName": "abc",
-            "type": "Cat"
-        },
-        {
-            "healthLevel": "100",
-            "petState": "0",
-            "starveMeter": "90",
-            "closenessLevel": "5",
-            "poopMeter": "0",
-            "animalName": "jake",
+            "starveMeter": "100",
+            "closenessLevel": "25",
+            "poopMeter": "20",
+            "animalName": "berry",
             "type": "Dog"
         },
         {
             "healthLevel": "100",
             "petState": "0",
             "starveMeter": "100",
-            "closenessLevel": "0",
-            "poopMeter": "0",
-            "animalName": "pet3",
-            "type": "Dog"
+            "closenessLevel": "10",
+            "poopMeter": "5",
+            "animalName": "apple",
+            "type": "Cat"
         }
     ],
     "Inventory": [
