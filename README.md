@@ -1,10 +1,11 @@
+# *Virtual Pet Simulator*
+
 This was my first ever personal project since learning I started learning computer science, the project is written in Object oriented programming design in java. UI and graphical element is done using JSwing library.
 
 https://github.com/iLnitsuJ/VirtualPetSimulator/assets/77997487/5fc1515f-157e-4aab-82cb-5c6701940908
 
 To play the game, clone the repo and run the VirtualPetSimulator.jar exe.
 
-# *Virtual Pet Simulator*
 
 ## Enjoy the experience of having a pet virtually. The game objective is to maximize player score by keep the pet alive as long as you. 
 
