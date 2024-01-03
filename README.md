@@ -1,6 +1,6 @@
-This was my first ever personal project since learning I started learning computer science. 
+This was my first ever personal project since learning I started learning computer science, the project is written in Object oriented programming design in java. UI and graphical element is done using JSwing library.
 
-I used Intellij back when working on this project. To be able to run it in vscode, you could to install this extension YouMayCallMeV.vscode-java-saber and it will be able to run right away.
+To play the game, clone the repo and run the VirtualPetSimulator.jar exe.
 
 # *Virtual Pet Simulator*
 
@@ -11,10 +11,18 @@ Features planned to implement:
 - condition monitor system(display closeness, hungriness, etc.)
 - pet keeping interactions through buttons
 
-  
+## Overview of program structure:
+
+Program follows OOP design. Basically cat and dog are all class with parent class of animal. Player class can have collection of animals and functions to interact with animals.
+Event log is used to keep track of all player actions.
+Save and load is done through Json library.
+Graphical element, UI features are done through JSwing library.
+
+
 The application will simulate a normal pet's behavior by having several state it can be in such as relaxing, wandering around, sleeping etc.
 User will be able to interact the pet with food, petting , play mini games with them.
 
+## Project progress
 
 ## User Stories Phase 1:
 
@@ -36,9 +44,10 @@ User will be able to interact the pet with food, petting , play mini games with 
 
 ## Phase 4: Tasks implemented
 
-- Added event log to keep record of all actions. 
+- Added event log to keep record of all actions.
 
-## Reflection & improvement:
+
+## Reflection & improvement on programming practices:
 I think I could've refactored out the pet class, and just have player with access to a collection of animal instead.
 Right now pet class acts as a way to choose to produce either Cat/Dog objects. However, I could modify animal class
 so that a type parameter is passed in when constructing an animal object which leads to choosing the specified
